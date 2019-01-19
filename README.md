@@ -1,4 +1,4 @@
-#Воркшоп по машинному обучению, Сириус
+# Воркшоп по машинному обучению, Сириус
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elena-shirokova/sirius_ml_workshop.git/master)
 
@@ -9,12 +9,12 @@
 
 Материалы для самостоятельного обучения
 
-## Python Tutorials
+### Python Tutorials
 
 - [Hacker Rank]()
 - [Code Academy]()
 
-## Python Books
+### Python Books
 - [learning python the hard way](https://learnpythonthehardway.org/book/ex1.html)
 
 #### Python
