@@ -1,13 +1,13 @@
-# Воркшоп по машинному обучению, Сириус
+## Воркшоп по машинному обучению, Сириус
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elena-shirokova/sirius_ml_workshop.git/master)
 
-Задачи по машинному обучению:
 
-1. Рекомендательные системы
-2. Классификация текстов на примере отзывов
+1. Задачи машинного обучения - классификация и регрессия
+2. Рекомендательные системы
+3. Классификация текстов на примере отзывов
 
-Материалы для самостоятельного обучения
+## Материалы для самостоятельного обучения
 
 ### Python туориалы
 
@@ -16,6 +16,11 @@
 
 ### Python книги
 - [learning python the hard way](https://learnpythonthehardway.org/book/ex1.html)
+
+### Git 
+
+- [Short History Of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
+- [Try GitHub](try.github.io)
 
 #### Python
 
