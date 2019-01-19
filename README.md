@@ -7,17 +7,17 @@
 2. Рекомендательные системы
 3. Классификация текстов на примере отзывов
 
-## Материалы для самостоятельного обучения
+### Материалы для самостоятельного обучения
 
-### Python туориалы
+#### Python туориалы
 
 - [Hacker Rank]()
 - [Code Academy]()
 
-### Python книги
+#### Python книги
 - [learning python the hard way](https://learnpythonthehardway.org/book/ex1.html)
 
-### Git 
+#### Git 
 
 - [Short History Of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
 - [Try GitHub](try.github.io)
