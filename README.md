@@ -22,11 +22,10 @@
 - [Short History Of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
 - [Try GitHub](try.github.io)
 
-#### SciPy Stack
-
 
 #### Data Science with python
 
 https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/ - 
 здесь собрано много хороших подсказок, как можно настроить ноутбук под себя и какие есть лайфхаки
+
 https://www.kaggle.com/ - платформа для соревнований по машинному обучению, много интересных датасетов
