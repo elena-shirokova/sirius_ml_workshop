@@ -9,12 +9,12 @@
 
 Материалы для самостоятельного обучения
 
-### Python Tutorials
+### Python туориалы
 
 - [Hacker Rank]()
 - [Code Academy]()
 
-### Python Books
+### Python книги
 - [learning python the hard way](https://learnpythonthehardway.org/book/ex1.html)
 
 #### Python
@@ -23,3 +23,6 @@
 
 
 #### Data Science with python
+
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/ - 
+здесь собрано много хороших подсказок, как можно настроить ноутбук под себя и какие есть лайфхаки
