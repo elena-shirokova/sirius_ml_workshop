@@ -5,4 +5,3 @@ matplotlib
 seaborn
 tqdm
 ipywidgets
-math
